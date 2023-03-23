@@ -33,15 +33,13 @@ let destination_address_array = [
 let rpc_array = [
     // any rpc you can find... (https://...)
     // can be even 1, but the more the better
-    "https://arbitrum-mainnet.infura.io",
-    "https://endpoints.omniatech.io/v1/arbitrum/one/public",
     "https://arb1.arbitrum.io/rpc",
     "https://arbitrum.blockpi.network/v1/rpc/public",
     "https://arbitrum-one.public.blastapi.io",
     "https://1rpc.io/arb",
     "https://rpc.ankr.com/arbitrum",
+    "https://endpoints.omniatech.io/v1/arbitrum/one/public",
 ]
-
 
 let amountToClaim = [];
 let currentNonce = [];
